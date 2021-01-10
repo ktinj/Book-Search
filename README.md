@@ -1,4 +1,4 @@
-# Google Books Search: React-based Google Books Search app
+# React-based Google Books Search app
 
 ### Overview
 
@@ -8,12 +8,10 @@
 Install package dependencies with command `npm i`
 
 ### Links
-Deployed Heroku: https://hidden-bastion-27575.herokuapp.com/
+# Deployed Heroku: https://hidden-bastion-27575.herokuapp.com/
+# Github Repo: https://github.com/ktinj/Book-Search
 
-Github Repo: https://github.com/ktinj/Book-Search
-
-## Questions
+## Questions?
 [Email me](mailto:kristinjacobsenn@gmail.com)
-
 [GitHub](https://github.com/ktinj)
 
